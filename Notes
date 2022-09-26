@@ -3,3 +3,9 @@ Voici le Repertoire de Travaillaire du Projet 210
  https://fr.acervolima.com/comment-connecter-nodejs-avec-reactjs/#google_vignette
  https://fr.acervolima.com/react-js-introduction-et-travail/
  https://fr.acervolima.com/presentation-de-nodejs/
+ 
+ A faire :
+ 1) clique droite + git bash here
+ 2) Ecrire ceci :
+	git clone https://github.com/DevSuccess/Projet_210.git
+ 3) Creer une brach : Exemple : DevSuccessBranch, TolotraBranch
