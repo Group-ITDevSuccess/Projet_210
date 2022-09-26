@@ -1,4 +1,4 @@
-# Projet_210
+# Projet_210 Groupe 15 Theme 5
 Projet de Gestion des Enseignants (GE)
 
 Membre de Groupe 15:
@@ -11,7 +11,7 @@ Membre de Groupe 15:
   
 Le projet Thème 5:
   
-  * Base de données enseignant (contact, spécificité, encienneté), Génération facture mensuelle par enseigant
+  * Base de données enseignant (contact, spécificité, encienneté), Génération facture mensuelle par enseignant
   * Génération atestation de service par enseigant et par semaine
   * Cahier des textes numérique (heure début, fin, contenu du cours)
   * Calcule automatique des heures restantes par module et par enseigant
